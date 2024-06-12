@@ -1,0 +1,318 @@
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\GUI.exe.config
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\GUI.exe
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\GUI.pdb
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\BUS.dll
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\DTO.dll
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\DAO.dll
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\BUS.pdb
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\DTO.pdb
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\bin\Debug\DAO.pdb
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI.exe
+D:\HOCKIIII\LTUD\MoHinhBaLop\GUI\obj\Debug\GUI.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.SuggestedBindingRedirects.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\PJQLRapChieuPhim.listFromThanhToan.FormGhe.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\PJQLRapChieuPhim.QLRCP.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinLichChieu.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\stdole.dll
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmInRaBaoCaoVeXemPhim.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\stdole.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmInRaBaoCaoVeXemPhim.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_reportHoaDon.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\stdole.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmInRaBaoCaoVeXemPhim.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_reportHoaDon.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_reportHoaDon.resources
+D:\Năm hai\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmBaoCaoPhimVaPhong.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\stdole.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_reportHoaDon.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_BaoCaoPhimVaPhong.resources
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_InRaBaoCaoVeXemPhim.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\stdole.dll
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\BUS.pdb
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DTO.pdb
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\bin\Debug\DAO.pdb
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.AssemblyReference.cache
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_BaoCaoPhimVaPhong.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_InRaBaoCaoVeXemPhim.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_DANGKI.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.FormGhe.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_reportHoaDon.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinHoaDon.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINLICHCHIEU.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinNhanVien.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongBan.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhongChieu.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinPhim.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinRap.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.GUI_THONGTINDANGNHAP.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinKhachHang.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.frmNhapThongTinVe.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.QLRCP.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.GenerateResource.cache
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CoreCompileInputs.cache
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI_QLRCP.csproj.CopyComplete
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\HOCKIIII\LTUD\project_LTUD\QuanLyHeThongRapChieuPhim\GUI\obj\Debug\GUI.pdb

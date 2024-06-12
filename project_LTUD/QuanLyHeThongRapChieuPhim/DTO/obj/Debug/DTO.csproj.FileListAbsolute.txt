@@ -1,0 +1,36 @@
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\bin\Debug\DTO.dll
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\bin\Debug\DTO.pdb
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\obj\Debug\DTO.dll
+D:\HOCKIIII\LTUD\MoHinhBaLop\DTO\obj\Debug\DTO.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\LTUP\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\Huy111\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.pdb
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.dll
+D:\project_LTUD đã Crystal Report\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Hiep\Downloads\project_LTUD\QuanLyHeThongRapChieuPhim\DTO\obj\Debug\DTO.pdb
